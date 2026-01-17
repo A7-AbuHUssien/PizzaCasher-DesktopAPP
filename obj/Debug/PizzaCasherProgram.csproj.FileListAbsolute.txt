@@ -1,0 +1,10 @@
+D:\ProJect\PizzaCasherProgram\bin\Debug\PizzaCasherProgram.exe.config
+D:\ProJect\PizzaCasherProgram\bin\Debug\PizzaCasherProgram.exe
+D:\ProJect\PizzaCasherProgram\bin\Debug\PizzaCasherProgram.pdb
+D:\ProJect\PizzaCasherProgram\obj\Debug\PizzaCasherProgram.csproj.AssemblyReference.cache
+D:\ProJect\PizzaCasherProgram\obj\Debug\PizzaCasherProgram.MakePizzaScreen.resources
+D:\ProJect\PizzaCasherProgram\obj\Debug\PizzaCasherProgram.Properties.Resources.resources
+D:\ProJect\PizzaCasherProgram\obj\Debug\PizzaCasherProgram.csproj.GenerateResource.cache
+D:\ProJect\PizzaCasherProgram\obj\Debug\PizzaCasherProgram.csproj.CoreCompileInputs.cache
+D:\ProJect\PizzaCasherProgram\obj\Debug\PizzaCasherProgram.exe
+D:\ProJect\PizzaCasherProgram\obj\Debug\PizzaCasherProgram.pdb
